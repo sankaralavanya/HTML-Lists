@@ -1,2 +1,2 @@
 # HTML-Lists
-lists.docx , ists.html, nestedlist.html
+lists.docx , lists.html, nestedlist.html
